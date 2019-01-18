@@ -1,2 +1,2 @@
 # helloWorld
-Just a sample repository
+Just a sample repository.Trying hands on.
